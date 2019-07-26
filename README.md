@@ -11,3 +11,5 @@ This is clearly against the concept of the open source community and I geniunly 
 Let's star and fork this repo so we have a voice, let's get this on all social media and email all the people that have a voice in free and open source software. Let's prevent such beautiful concept turn to a part of the politics.
 
 We the developers and programmers, believe in freedom and software freedom, we with all respect want to have this access back and together make contribution and continue to create something free, beautiful and accessible to everyone around the world.
+
+We are developer and programmers, we have nothing to do with world policts and neither of us chose where to be born, we want to have access to this service like everyone else around the world.
